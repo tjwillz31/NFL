@@ -1,5 +1,5 @@
 # NFL
 
-Author - Taylor Williams
+Author - Taylor Williams @tjwillz31
 
 Analysis work done with R using nflscrapR data
