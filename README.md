@@ -12,5 +12,7 @@ Fantasy Football Topics:
 - Rookie WR breakout modelling
 
 Link to nflscrapR repository: https://github.com/maksimhorowitz/nflscrapR
+<br>
 Link to nflfastR repository: https://mrcaseb.github.io/nflfastR/
+<br>
 Link to playerprofiler: https://www.playerprofiler.com/
